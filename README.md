@@ -1,6 +1,6 @@
 # Towers of Hanoi - CP/M version
 ##Contents of package
-- **source**
+- **source** - Source code in Turbo Pascal 3.01A (Borland)
  - **hanoi-p.pas** - Portable version: uses just *KayPro* / *ADM-3A* escape sequences. Black and white.
  - **hanoi128.pas** - Commodore 128 specific version: uses low-level calls and specific escape sequences to get colours.
  - **graph.inc** - Library needed by Commodore 128 specific version
