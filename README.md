@@ -10,3 +10,11 @@
 - **dists** - Collection of CP/M bootable disk images for Commodore 128
  - **hanoi.d71** - Includes CP/M boot code, all sources and binaries, some utilities
  - **hanoi.d64** - Includes CP/M boot code, all sources and binaries
+
+##Screenshots
+###Commodore 128 version
+![C128 version](http://www.sblendorio.eu/images/hanoi128-1.png)
+![C128 version](http://www.sblendorio.eu/images/hanoi128-2.png)
+###Portable version
+![Portable version](http://www.sblendorio.eu/images/hanoip-1.png)
+![Portable version](http://www.sblendorio.eu/images/hanoip-2.png)
