@@ -4,7 +4,7 @@
  - **hanoi-p.pas** - Portable version: uses just *KayPro* / *ADM-3A* escape sequences. Black and white.
  - **hanoi128.pas** - Commodore 128 specific version: uses low-level calls and specific escape sequences to get colours.
  - **graph.inc** - Library needed by Commodore 128 specific version
-- **binary**
+- **binary** - Compiled .COM executable files for CP/M-80
  - **hanoi-p.com** - Binary portable version
  - **hanoi128.com** - Binary Commodore 128 specific version
 - **dists** - Collection of CP/M bootable disk images for Commodore 128
