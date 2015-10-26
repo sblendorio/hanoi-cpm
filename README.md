@@ -11,6 +11,9 @@
  - **hanoi.d71** - Includes CP/M boot code, all sources and binaries, some utilities
  - **hanoi.d64** - Includes CP/M boot code, all sources and binaries
 
+##Credits
+Thanks to [TomHarte](https://github.com/TomHarte) for his [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
+
 ##Screenshots
 ###Commodore 128 version
 ![C128 version](http://www.sblendorio.eu/images/hanoi-128-1.png) ![C128 version](http://www.sblendorio.eu/images/hanoi-128-2.png)
